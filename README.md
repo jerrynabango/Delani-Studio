@@ -8,6 +8,8 @@ The webpage can be viewed though the following browsers.
 * Chrome
 * Firefox
 * Opera Mini
+## Live link:
+https://jerrynabango.github.io/Delani-Studio/
 ## Technologies Used:
 * HTML and CSS.
 * JAVASCRIPT
