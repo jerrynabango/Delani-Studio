@@ -2,7 +2,7 @@
 ## Recreated by:.
 Jerry Nabango
 ## App description:
-A landing page of a fictional studio that dispalys what the company does, the projects done and lets the user interact with the studio through an email section.
+This is a landing page of a fictional studio that dispalys the projects done and lets the user interact with the studio through an email section.
 ## Browsers used:
 The webpage can be viewed though the following browsers.
 * Chrome
