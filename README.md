@@ -23,7 +23,7 @@ of this software "Delani Studio" and associated documentation files to deal
 in the Software without any restrictions, including without limitations the rights
 to use,copy,modify,publish,distribute,sublicense,and/or sell 
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so freely without any restrictions.THANK YOU FOR USING THE Delani Studio.
+furnished to do so freely without any restrictions.THANK YOU FOR USING Delani Studio.
 
    lincense Copyright (c)2020.All rights reserved.
     P.o Box: 999666,Nairobi,Kenya.
